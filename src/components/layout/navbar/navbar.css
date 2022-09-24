@@ -1,0 +1,10 @@
+.categories {
+  display: flex;
+  gap: 70px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.categories__el {
+  color: #6156c2;
+}
